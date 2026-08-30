@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tiktok-mode.github.io/tiktok04/sitemap.xml
